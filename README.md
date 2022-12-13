@@ -1,7 +1,5 @@
 # PythonBots web application 
 
-https://www.pythonbots.site/
-
 ## Architecture
 
 - PythonBots is a django web app with standard static templating running on apache as a web server.
